@@ -1,0 +1,22 @@
+{
+  "name": "dimension_pack",
+  "pulls": [
+    {
+      "weight": 8,
+      "entries": [
+        {
+          "count": 4,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

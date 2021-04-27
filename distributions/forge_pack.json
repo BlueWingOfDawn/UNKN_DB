@@ -1,0 +1,28 @@
+{
+  "name": "forge_pack",
+  "pulls": [
+    {
+      "weight": 9,
+      "entries": [
+        {
+          "count": 7,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}
