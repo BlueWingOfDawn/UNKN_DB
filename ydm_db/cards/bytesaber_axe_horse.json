@@ -10,7 +10,7 @@
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 1700,
-  "species": "Fish",
+  "species": "Cyberse",
   "monster_type": "",
   "is_pendulum": false,
   "ability": "",
