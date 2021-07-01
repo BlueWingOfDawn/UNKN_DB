@@ -1,25 +1,25 @@
 {
-  "name": "forge_pack",
+  "name": "war_of_the_giants_reinforcements",
   "pulls": [
     {
-      "weight": 9,
+      "weight": 1,
       "entries": [
         {
-          "count": 7,
+          "count": 9,
           "rarities": [
             "Common"
           ]
         },
         {
-          "count": 1,
+          "count": 6,
           "rarities": [
-            "Rare"
+            "Super Rare"
           ]
         },
         {
           "count": 1,
           "rarities": [
-            "Super Rare"
+            "Ultra Rare"
           ]
         }
       ]
