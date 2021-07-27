@@ -1,0 +1,256 @@
+{
+  "name": "Starter Deck: Technical Eye",
+  "code": "SDTE",
+  "type": "Starter Deck",
+  "date": "27-07-2021",
+  "image": "",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 36687247,
+      "code": "SDTE-E00",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36687247,
+      "code": "SDTE-E01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74627016,
+      "code": "SDTE-E02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74627016,
+      "code": "SDTE-E03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64898834,
+      "code": "SDTE-E04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64898834,
+      "code": "SDTE-E05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1315120,
+      "code": "SDTE-E06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48633301,
+      "code": "SDTE-E07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48633301,
+      "code": "SDTE-E08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48633301,
+      "code": "SDTE-E09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30348744,
+      "code": "SDTE-E10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37300735,
+      "code": "SDTE-E11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37300735,
+      "code": "SDTE-E12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37300735,
+      "code": "SDTE-E13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11234702,
+      "code": "SDTE-E14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11234702,
+      "code": "SDTE-E15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11234702,
+      "code": "SDTE-E16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 293542,
+      "code": "SDTE-E17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 293542,
+      "code": "SDTE-E18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 293542,
+      "code": "SDTE-E19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64910482,
+      "code": "SDTE-E20",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5318639,
+      "code": "SDTE-E21",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34664411,
+      "code": "SDTE-E22",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34664411,
+      "code": "SDTE-E23",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34664411,
+      "code": "SDTE-E24",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6178850,
+      "code": "SDTE-E25",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6178850,
+      "code": "SDTE-E26",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6178850,
+      "code": "SDTE-E27",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14745409,
+      "code": "SDTE-E28",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14745409,
+      "code": "SDTE-E29",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61127349,
+      "code": "SDTE-E30",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65169794,
+      "code": "SDTE-E31",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65169794,
+      "code": "SDTE-E32",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65169794,
+      "code": "SDTE-E33",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79068663,
+      "code": "SDTE-E34",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79068663,
+      "code": "SDTE-E35",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79068663,
+      "code": "SDTE-E36",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80987696,
+      "code": "SDTE-E37",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80987696,
+      "code": "SDTE-E38",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80987696,
+      "code": "SDTE-E39",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24943456,
+      "code": "SDTE-E40",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}
