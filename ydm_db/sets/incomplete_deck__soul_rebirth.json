@@ -1,10 +1,11 @@
 {
   "name": "Incomplete Deck: Soul Rebirth",
   "code": "IDSR",
-  "type": "Starter Deck",
+  "type": "Incomplete Deck",
   "date": "03/10/2021",
   "image": "",
-  "pull_type": "full",
+  "pull_type": "distribution",
+  "distribution": "start_deck",
   "cards": [
     {
       "id": 74677422,
