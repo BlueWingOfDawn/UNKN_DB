@@ -40,13 +40,13 @@
     {
       "id": 38495396,
       "code": "SP01-006",
-      "rarity": "Ultra Rare",
+      "rarity": "Soul Rare",
       "image_index": 0
     },
     {
       "id": 82428674,
       "code": "SP01-007",
-      "rarity": "Ultra Rare",
+      "rarity": "Soul Rare",
       "image_index": 0
     },
     {
@@ -94,7 +94,7 @@
     {
       "id": 58199906,
       "code": "SP01-015",
-      "rarity": "Ultra Rare",
+      "rarity": "Soul Rare",
       "image_index": 0
     },
     {
@@ -136,7 +136,7 @@
     {
       "id": 35809262,
       "code": "SP01-022",
-      "rarity": "Ultra Rare",
+      "rarity": "Soul Rare",
       "image_index": 0
     },
     {
@@ -160,31 +160,31 @@
     {
       "id": 19252988,
       "code": "SP01-026",
-      "rarity": "Secret Rare",
+      "rarity": "Soul Rare",
       "image_index": 0
     },
     {
       "id": 91989718,
       "code": "SP01-027",
-      "rarity": "Secret Rare",
+      "rarity": "Soul Rare",
       "image_index": 0
     },
     {
       "id": 10537981,
       "code": "SP01-028",
-      "rarity": "Secret Rare",
+      "rarity": "Soul Rare",
       "image_index": 0
     },
     {
       "id": 46031686,
       "code": "SP01-029",
-      "rarity": "Secret Rare",
+      "rarity": "Soul Rare",
       "image_index": 0
     },
     {
       "id": 73026394,
       "code": "SP01-030",
-      "rarity": "Secret Rare",
+      "rarity": "Soul Rare",
       "image_index": 0
     }
   ]
