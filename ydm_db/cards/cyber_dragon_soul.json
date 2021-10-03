@@ -1,0 +1,21 @@
+{
+  "id": 5248734359,
+  "name": "Cyber Dragon Soul",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Must be Soul Summoned by banishing 'Cyber Dragon' from your field and cannot be special by other ways.\nOnce per Turn: You can double this card's ATK until the end phase of your opponent's next turn. This card cannot attack the turn you use this effect.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2100,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 5,
+  "is_tuner": false
+}

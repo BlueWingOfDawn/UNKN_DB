@@ -1,0 +1,12 @@
+{
+  "id": 3075379826,
+  "name": "Soul City",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If a \"Soul\" monster attacks a monster that has higher ATK, the attacking monster gains 1000 ATK during damage calculation only.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}
