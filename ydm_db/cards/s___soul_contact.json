@@ -1,0 +1,12 @@
+{
+  "id": 1000009,
+  "name": "S - Soul Contact",
+  "is_illegal": ,
+  "is_custom": true,
+  "text": "You can Soul Summon a Fusion monster from your Extra Deck that requires \"Soul-Spacian\" monsters. You can only Soul Summon once per Duel. This card's activation and the Soul Summon cannot be negated.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": ""
+}

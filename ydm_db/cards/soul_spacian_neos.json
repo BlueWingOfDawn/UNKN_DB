@@ -1,0 +1,21 @@
+{
+  "id": 1000005,
+  "name": "Soul-Spacian Neos",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When he was brought to the new dimension, Neos gained a new form. When he Contact Fuses, his power is unknown.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "Light",
+  "atk": 2000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1600,
+  "level": 6,
+  "is_tuner": false
+}

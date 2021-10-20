@@ -1,0 +1,21 @@
+{
+  "id": 1000004,
+  "name": "Soul-Spacian Dark Fox",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "All \"Soul-Spacian\" monsters gain 100 ATK for each \"Soul-Spacian\" you control.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "Light",
+  "atk": 1500,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 3,
+  "is_tuner": false
+}

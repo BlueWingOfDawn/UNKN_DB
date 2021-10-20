@@ -1,0 +1,12 @@
+{
+  "id": 1000010,
+  "name": "O - Overhaul",
+  "is_illegal": ,
+  "is_custom": true,
+  "text": "Special Summon one \"Soul-Spacian\" Monster from your GY and double it's ATK, but banish it during the End Phase.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": ""
+}

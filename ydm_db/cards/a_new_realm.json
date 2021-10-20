@@ -1,0 +1,12 @@
+{
+  "id": 1000013,
+  "name": "A New Realm",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When a \"Soul-Spacian\" monster would be destroyed in battle: The monster is not destroyed and damage is reduced to 0.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": ""
+}

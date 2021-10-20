@@ -1,0 +1,12 @@
+{
+  "id": 1000014,
+  "name": "The Soul Path",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When a \"Soul-Spacian\" Fusion monster is summoned, double it's ATK but it cannot attack that turn.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": ""
+}

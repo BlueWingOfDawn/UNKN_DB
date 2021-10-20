@@ -1,0 +1,21 @@
+{
+  "id": 1000006,
+  "name": "Soul-Spacian Bubble Blitz",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card was the only card in your hand when summoned: Draw 2 cards.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "Light",
+  "atk": 1000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 2,
+  "is_tuner": false
+}
