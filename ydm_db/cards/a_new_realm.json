@@ -3,7 +3,7 @@
   "name": "A New Realm",
   "is_illegal": false,
   "is_custom": true,
-  "text": "When a \"Soul-Spacian\" monster would be destroyed in battle: The monster is not destroyed and damage is reduced to 0.",
+  "text": "During your opponent\u0027s turn, when a \"Soul-Spacian\" monster would be destroyed: Make the battle damage you take from this battle 0, and if you do, draw 1 card.",
   "images": [
     ""
   ],
