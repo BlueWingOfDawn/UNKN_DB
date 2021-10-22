@@ -3,10 +3,10 @@
   "name": "U - Underwhelmed"
   "is_illegal": false,
   "is_custom": true,
-  "text": "Special Summon one \"Soul-Spacian\" Monster from your GY and half it's ATK, but destroy it durnig the End Phase",
+  "text": "Special Summon one \"Soul-Spacian\" Monster from your GY and half it's ATK, but destroy it during the End Phase.",
   "images": [
     ""
   ],
   "type": "Spell",
-  "spell_type": "Normal"
+  "spell_type": "Quick-Play"
 }
