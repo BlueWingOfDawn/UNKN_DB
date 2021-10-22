@@ -1,6 +1,6 @@
 {
   "id": 1000011,
-  "name": "U - Underpowered"
+  "name": "U - Underpowered",
   "is_illegal": false,
   "is_custom": true,
   "text": "Special Summon one \"Soul-Spacian\" Monster from your GY and half it's ATK, but destroy it during the End Phase.",
