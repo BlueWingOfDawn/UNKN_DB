@@ -8,14 +8,14 @@
     ""
   ],
   "type": "Monster",
-  "attribute": "",
-  "atk": ,
-  "species": "",
-  "monster_type": "",
-  "is_pendulum": ,
+  "attribute": "Wind",
+  "atk": 2900,
+  "species": "Soul",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
   "ability": "",
-  "has_effect": ,
-  "def": ,
-  "level": ,
-  "is_tuner": 
+  "has_effect": true,
+  "def": 2000,
+  "level": 8,
+  "is_tuner": false
 }
