@@ -3,7 +3,7 @@
   "name": "Planetary Space",
   "is_illegal": false,
   "is_custom": true,
-  "text": "All Dragon monsters on the field gain 200 ATK for every different attribute monster you control, Once per turn you can change the attribute of 1 Dragon monster you control."
+  "text": "All Dragon monsters on the field gain 200 ATK for every different attribute monster you control, Once per turn you can change the attribute of 1 Dragon monster you control.",
   "images": [
     ""
   ],
