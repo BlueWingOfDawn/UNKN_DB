@@ -1,0 +1,12 @@
+{
+  "id": 200000,
+  "name": "Pluto",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you control no monsters Special Summon this card as a Non-Effect Monster (Reptile/Earth/Level 1/ATK 0/DEF 0).(This card is also still a Spell.)",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

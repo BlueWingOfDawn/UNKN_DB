@@ -1,0 +1,268 @@
+{
+  "name": "Starter Deck: Eclipse Galaxy",
+  "code": "SDEG",
+  "type": "Structure Deck",
+  "date": "04-11-2021",
+  "image": "",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 2000015,
+      "code": "SDEG-000",
+      "rarity": "Credit",
+      "image_index": 0
+    },
+	{
+      "id": 2000004,
+      "code": "SDEG-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 200001,
+      "code": "SDEG-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000001,
+      "code": "SDEG-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000001,
+      "code": "SDEG-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000002,
+      "code": "SDEG-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000002,
+      "code": "SDEG-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000002,
+      "code": "SDEG-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000003,
+      "code": "SDEG-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000003,
+      "code": "SDEG-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000003,
+      "code": "SDEG-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000005,
+      "code": "SDEG-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000005,
+      "code": "SDEG-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000005,
+      "code": "SDEG-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000006,
+      "code": "SDEG-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000006,
+      "code": "SDEG-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000006,
+      "code": "SDEG-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000007,
+      "code": "SDEG-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000007,
+      "code": "SDEG-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000007,
+      "code": "SDEG-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000008,
+      "code": "SDEG-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000008,
+      "code": "SDEG-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 200008,
+      "code": "SDEG-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 200009,
+      "code": "SDEG-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 200009,
+      "code": "SDEG-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 200009,
+      "code": "SDEG-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2000010,
+      "code": "SDEG-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2000010,
+      "code": "SDEG-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2000010,
+      "code": "SDEG-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2000011,
+      "code": "SDEG-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2000011,
+      "code": "SDEG-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2000011,
+      "code": "SDEG-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2000012,
+      "code": "SDEG-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2000012,
+      "code": "SDEG-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2000012,
+      "code": "SDEG-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2000013,
+      "code": "SDEG-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2000013,
+      "code": "SDEG-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2000013,
+      "code": "SDEG-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2000014,
+      "code": "SDEG-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2000014,
+      "code": "SDEG-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2000014,
+      "code": "SDEG-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2000016,
+      "code": "SDEG-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2000017,
+      "code": "SDEG-044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

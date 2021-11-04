@@ -1,0 +1,21 @@
+{
+  "id": 200009,
+  "name": "Planet-Dragon Mars",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is Normal or Special Summoned: send the top card of your deck to the GY.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "Dot",
+  "atk": 300,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

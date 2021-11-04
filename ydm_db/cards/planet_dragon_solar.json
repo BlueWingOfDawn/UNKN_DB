@@ -1,0 +1,21 @@
+{
+  "id": 200013,
+  "name": "Planet-Dragon Solar",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you control a DARK Dragon monster: you can Special Summon this card from your hand.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "Ring",
+  "atk": 200,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 200017,
+  "name": "Solar System Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "10 \"Planet-Dragon\" monsters with different attributes\nThis card must be Soul Summoned. This card is always treated as every attribute. When this card is Soul Summoned: banish all other cards on the field.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "",
+  "atk": 8000,
+  "species": "Dragon-Soul",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 8000,
+  "level": 12,
+  "is_tuner": false
+}
