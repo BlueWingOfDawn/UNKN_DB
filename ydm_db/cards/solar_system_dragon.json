@@ -8,7 +8,7 @@
     ""
   ],
   "type": "Monster",
-  "attribute": "",
+  "attribute": "Dark",
   "atk": 8000,
   "species": "Dragon-Soul",
   "monster_type": "Fusion",
