@@ -1,0 +1,12 @@
+{
+  "id": 4025137052,
+  "name": "Rose Cross-Breeding",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Once per Duel, banish one \Rose Dragon\ Monster to Soul Summon one \"Soul\" type Monster from your Extra Deck.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Soul"
+}

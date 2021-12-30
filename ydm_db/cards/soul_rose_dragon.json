@@ -1,0 +1,21 @@
+{
+  "id": 6974280530,
+  "name": "Soul Rose Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card must be Soul Summoned by banishing \"Blood Rose Dragon\", and cannot be Special Summoned by other ways. Once per Duel, when this card is Soul Summoned: During the End Phase, destroy all cards except this card. Then, gain 1000LP for each card destroyed by this effect.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "Dark",
+  "atk": 3700,
+  "species": "Soul",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 3000,
+  "level": 10,
+  "is_tuner": false
+}
